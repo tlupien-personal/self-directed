@@ -1,0 +1,366 @@
+city_name    New York
+latitude          NaN
+longitude         NaN
+Name: 1, dtype: object
+
+New Name:  New York
+Latitude:  40°42′46″N
+Longitude:  74°00′22″W
+
+city_name    Melboume
+latitude          NaN
+longitude         NaN
+Name: 28, dtype: object
+
+New Name:  Melbourne
+Latitude:  37°49′S
+Longitude:  144°58′E
+
+city_name    Stockhoim
+latitude           NaN
+longitude          NaN
+Name: 31, dtype: object
+
+New Name:  Stockholm
+Latitude:  59°19′46″N
+Longitude:  18°4′7″E
+
+city_name    Taipel
+latitude        NaN
+longitude       NaN
+Name: 35, dtype: object
+
+New Name:  Taipei
+Latitude:  25°04′N
+Longitude:  121°31′E
+
+city_name    Diisseldorf
+latitude             NaN
+longitude            NaN
+Name: 59, dtype: object
+
+New Name:  Düsseldorf
+Latitude:  51°14′N
+Longitude:  6°47′E
+
+city_name    Ooha
+latitude      NaN
+longitude     NaN
+Name: 63, dtype: object
+
+New Name:  Doha
+Latitude:  25°17′12″N
+Longitude:  51°32′0″E
+
+city_name    Ailanta
+latitude         NaN
+longitude        NaN
+Name: 66, dtype: object
+
+New Name:  Atlanta
+Latitude:  33°44′56″N
+Longitude:  84°23′24″W
+
+city_name    Osto
+latitude      NaN
+longitude     NaN
+Name: 82, dtype: object
+
+New Name:  Oslo
+Latitude:  59°54′50″N
+Longitude:  10°45′8″E
+
+city_name    Philadefphia
+latitude              NaN
+longitude             NaN
+Name: 87, dtype: object
+
+New Name:  Philadelphia
+Latitude:  39°57′10″N
+Longitude:  75°09′49″W
+
+city_name      s
+latitude     NaN
+longitude    NaN
+Name: 109, dtype: object
+
+New Name:  Sofia
+Latitude:  42.70°N
+Longitude:  23.33°E
+
+city_name    San jose
+latitude          NaN
+longitude         NaN
+Name: 110, dtype: object
+
+New Name:  San Jose
+Latitude:  9°56′N
+Longitude:  84°5′W
+
+city_name    XFAn
+latitude      NaN
+longitude     NaN
+Name: 124, dtype: object
+
+New Name:  Xi'an
+Latitude:  34°15′54″N
+Longitude:  108°57′14″E
+
+city_name    George Town
+latitude             NaN
+longitude            NaN
+Name: 133, dtype: object
+
+New Name:  George Town
+
+city_name    San Jose
+latitude          NaN
+longitude         NaN
+Name: 141, dtype: object
+
+New Name:  San Jose
+
+city_name    Phoenix
+latitude         NaN
+longitude        NaN
+Name: 162, dtype: object
+
+New Name:  Phoenix
+
+city_name    San Juan
+latitude          NaN
+longitude         NaN
+Name: 172, dtype: object
+
+New Name:  San Juan
+
+city_name    Guayaqui
+latitude          NaN
+longitude         NaN
+Name: 185, dtype: object
+
+New Name:  Guayaquil
+
+city_name    Nassau
+latitude        NaN
+longitude       NaN
+Name: 199, dtype: object
+
+New Name:  Nassau
+
+city_name    Mélaga
+latitude        NaN
+longitude       NaN
+Name: 208, dtype: object
+
+New Name:  Málaga
+
+city_name    Columbus
+latitude          NaN
+longitude         NaN
+Name: 214, dtype: object
+
+New Name:  Columbus
+
+city_name    Belo H
+latitude        NaN
+longitude       NaN
+Name: 218, dtype: object
+
+New Name:  Belo Horizonte
+
+city_name    onte
+latitude      NaN
+longitude     NaN
+Name: 222, dtype: object
+
+New Name:  None
+
+city_name    ney Birmingham
+latitude                NaN
+longitude               NaN
+Name: 223, dtype: object
+
+New Name:  Birmingham
+
+city_name    jency
+latitude       NaN
+longitude      NaN
+Name: 248, dtype: object
+
+New Name:  None
+
+city_name    Mérida
+latitude        NaN
+longitude       NaN
+Name: 257, dtype: object
+
+New Name:  Mérida
+
+city_name    Newcastle
+latitude           NaN
+longitude          NaN
+Name: 258, dtype: object
+
+New Name:  Newcastle
+
+New Name:  Newcastle
+Latitude:  54.98°N
+
+New Name:  Newcastle
+Latitude:  54.98°N
+Longitude:  1.61°W
+
+city_name    Namberg
+latitude         NaN
+longitude        NaN
+Name: 261, dtype: object
+
+New Name:  Nuremberg
+
+city_name    Cal
+latitude     NaN
+longitude    NaN
+Name: 262, dtype: object
+
+New Name:  Cali
+
+city_name    Portland
+latitude          NaN
+longitude         NaN
+Name: 266, dtype: object
+
+New Name:  Portland
+
+city_name    Urumai
+latitude        NaN
+longitude       NaN
+Name: 270, dtype: object
+
+New Name:  Ürümqi
+
+city_name    hmond
+latitude       NaN
+longitude      NaN
+Name: 275, dtype: object
+
+New Name:  Richmond
+
+city_name    Chi
+latitude     NaN
+longitude    NaN
+Name: 283, dtype: object
+
+New Name:  Chișinău
+
+city_name    Cordoba
+latitude         NaN
+longitude        NaN
+Name: 285, dtype: object
+
+New Name:  Córdoba
+
+city_name    Leon
+latitude      NaN
+longitude     NaN
+Name: 286, dtype: object
+
+New Name:  Leon
+
+city_name    kek
+latitude     NaN
+longitude    NaN
+Name: 294, dtype: object
+
+New Name:  Bishkek
+
+city_name    Buffalo
+latitude         NaN
+longitude        NaN
+Name: 302, dtype: object
+
+New Name:  Buffalo
+
+city_name     au
+latitude     NaN
+longitude    NaN
+Name: 304, dtype: object
+
+New Name:  None
+
+city_name    Rochester
+latitude           NaN
+longitude          NaN
+Name: 308, dtype: object
+
+New Name:  Rochester
+
+city_name    Hamilton
+latitude          NaN
+longitude         NaN
+Name: 313, dtype: object
+
+New Name:  Hamilton
+
+city_name    irmingham
+latitude           NaN
+longitude          NaN
+Name: 316, dtype: object
+
+New Name:  Birmingham
+
+city_name    Santa Cruz
+latitude            NaN
+longitude           NaN
+Name: 319, dtype: object
+
+New Name:  Santa Cruz
+
+city_name    Chihuahua
+latitude           NaN
+longitude          NaN
+Name: 350, dtype: object
+
+New Name:  Chihuahua
+
+city_name    Memphis
+latitude         NaN
+longitude        NaN
+Name: 351, dtype: object
+
+New Name:  Memphis
+
+city_name     Ki
+latitude     NaN
+longitude    NaN
+Name: 360, dtype: object
+
+New Name:  Kinshasa
+
+city_name    Salvador
+latitude          NaN
+longitude         NaN
+Name: 362, dtype: object
+
+New Name:  Salvador
+
+city_name    hasa
+latitude      NaN
+longitude     NaN
+Name: 363, dtype: object
+
+New Name:  None
+
+city_name     sk
+latitude     NaN
+longitude    NaN
+Name: 373, dtype: object
+
+New Name:  None
+
+city_name    Novosi
+latitude        NaN
+longitude       NaN
+Name: 374, dtype: object
+
+New Name:  Novosibirsk
