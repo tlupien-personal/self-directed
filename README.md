@@ -1,6 +1,6 @@
 # Self Directed
 
-This repository contains many samples of the kind of work I've been doing to improve my technical skills, including exercises from textbooks I've read and small projects which I personally came up with and executed.
+This repository contains many samples of the kind of work I've been doing to improve my technical skills, including exercises from textbooks I've read, small projects of my own design, and kaggle machine learning challenge notebooks (all of which score in the top 1/3 at least).
 
 I welcome and encourage feedback on the content of this repository.
 
